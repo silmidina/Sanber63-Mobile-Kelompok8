@@ -1,0 +1,12 @@
+fromCity_spinner_bookPage: '//android.widget.Spinner[@resource-id="com.example.myapplication:id/spinnerFrom"]'
+toCity_spinner_bookPage: '//android.widget.Spinner[@resource-id="com.example.myapplication:id/spinnerTo"]'
+class_spinner_bookPage: '//android.widget.Spinner[@resource-id="com.example.myapplication:id/spinnerClass"]'
+startDate_datePicker_bookPage: '//android.widget.TextView[@resource-id="com.example.myapplication:id/textStartDate"]'
+endDate_datePicker_bookPage: '//android.widget.TextView[@resource-id="com.example.myapplication:id/textEndDate"]'
+ok_datePicker_bookPage: '//android.widget.Button[@resource-id="android:id/button1"]'
+book_button_bookPage: '//android.widget.Button[@resource-id="com.example.myapplication:id/book_flight"]'
+date_picker_header_year: //android.widget.TextView[@resource-id="android:id/date_picker_header_year"]
+year_start_date: //android.widget.TextView[@resource-id="android:id/text1" and @text="2023"]  
+year_end_date: //android.widget.TextView[@resource-id="android:id/text1" and @text="2025"] 
+checkBoxDay: //android.widget.CheckBox[@resource-id="com.example.myapplication:id/checkBoxDay"]
+checkedTextView_booked: //android.widget.CheckedTextView[@resource-id="com.example.myapplication:id/checkedTextView"]
