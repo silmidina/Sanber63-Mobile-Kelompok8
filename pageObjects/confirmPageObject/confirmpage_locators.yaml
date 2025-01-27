@@ -1,0 +1,2 @@
+confirm_button_confirmPage: '//android.widget.Button[@resource-id="com.example.myapplication:id/confirm_order"]'
+success_message_confirmPage: '//android.widget.CheckedTextView[@resource-id="com.example.myapplication:id/checkedTextView"]'

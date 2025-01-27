@@ -7,6 +7,6 @@ Anggota Kelompok:
 4. Mochammad Zulfiqar Dairam Al Zaby (zulfiqaralzaby)-
 5. Lalalis Manoban (listrasidabutar27) - 
 6. Cynthia Maulida Sari (cynthiams790) -
-7. Fathiya Rahma (fathr) -
+7. Fathiya Rahma (fathr) - Book Round Trip Flight
 
 Pembagian Tugas: [https://pickerwheel.com/result/?id=RTG-gPmbBk](https://pickerwheel.com/result/?id=RTG-iwz5CX)
