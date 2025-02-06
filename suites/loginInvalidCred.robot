@@ -3,18 +3,6 @@ Resource         ../pageObjects/homePageObject/homePage.robot
 Resource         ../pageObjects/loginPageObject/loginPage.robot
 Resource         ../pageObjects/loginPageObject/invalidLogin.robot
 
-
-# Test Setup       Run Keywords    
-# ...              Open Flight Application 
-# ...              Login With Invalid Credentials
-# ...              Verify Valid Credentials
-# Test Teardown    Close Flight Application
-# Test Teardown    Verify Valid Credentials
-
-# *** Variables ***
-# ${VALID_EMAIL}               support@ngendigital.com
-# ${VALID_PASSWORD}            abc123
-
 *** Test Cases ***
 User Login Without Credentials
     Run Keyword        Open Flight Application
