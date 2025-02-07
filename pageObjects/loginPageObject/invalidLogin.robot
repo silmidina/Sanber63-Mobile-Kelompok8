@@ -90,4 +90,5 @@ Login Without Email
 
 Verify Valid Credentials
     # Wait Until Element is Visible        ${toast_error_cred}
-    Wait Until Element Is Visible    ${login_logo}
+    # Wait Until Element Is Visible    ${login_logo}
+    Wait Until Page Contains    Invalid username/password
