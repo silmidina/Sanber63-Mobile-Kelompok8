@@ -10,3 +10,4 @@ Anggota Kelompok:
 7. Fathiya Rahma (fathr) - Book Round Trip Flight
 
 Pembagian Tugas: [https://pickerwheel.com/result/?id=RTG-gPmbBk](https://pickerwheel.com/result/?id=RTG-iwz5CX)
+- **Video Recording:** [Klik di sini](https://drive.google.com/drive/folders/1GRUdsmCKl76Ko7FTeatNeiQb4ndg8Qkb)
